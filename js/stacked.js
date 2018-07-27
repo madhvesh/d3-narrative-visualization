@@ -7,7 +7,7 @@ var margin = {top: 20, right: 100, bottom: 30, left: 50},
 var parseDate = d3.timeParse('%Y');
 var formatSi = d3.format(".3s");
 var formatNumber = d3.format(".1f"),
-    formatBillion = function(x) { return formatNumber(x / 1e9); };
+    formatBillion = function(x) { return formatNumber(x / 1e4); };
 
 var x = d3.scaleTime()
     .range([0, width]);
