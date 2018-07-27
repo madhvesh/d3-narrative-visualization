@@ -78,7 +78,7 @@ d3.json("data/homestats.json").then(function(data){
         })
     }
 
-    lineChart = new LineChart("#line-area","bitcoin");
+    lineChart = new LineChart("#line-area","california");
 
     donutChart1 = new DonutChart("#donut-area1", "market_cap");
 
