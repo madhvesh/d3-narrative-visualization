@@ -78,17 +78,6 @@ d3.csv('data/stacked_area.csv').then(function(data){
             //console.log(d.key," ",color(d.key));
             return color(d.key); });
 
-    // browser.append('text')
-    //     .datum(function(d) { return d; })
-    //     .attr('transform', function(d) {
-    //         return 'translate(' + x(data[13].date) + ',' + y(d[13][1]) + ')';
-    //     })
-    //     .attr('x', -6)
-    //     .attr('dy', '.35em')
-    //     .style("text-anchor", "start")
-    //     .text(function(d) { return d.key+"mad"; })
-    //     .attr('fill-opacity', 2);
-
 
     svg.append('g')
         .attr('class', 'x axis')

@@ -1,10 +1,4 @@
-/*
-*    main.js
-*    Mastering Data Visualization with D3.js
-*    10.5 - Handling events across objects
-*/
 
-// Global variables
 var lineChart,
     donutChart1,
     timeline;
