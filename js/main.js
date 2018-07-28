@@ -61,7 +61,7 @@ d3.json("data/homestats.json").then(function(data){
             return !(d["price_usd"] == null)
         })
         filteredData[coin].forEach(function(d){
-           // d["price_usd"] = +d["price_usd"];
+            d["price_usd"] = +d["price_usd"];
             d["24h_vol"] = +d["24h_vol"];
             d["market_cap"] = +d["market_cap"];
             d["date"] = parseTime(d["date"])

@@ -32,11 +32,11 @@ DonutChart.prototype.initVis = function(){
 
     vis.g.append("text")
         .attr("y", -vis.height/2 )
-        .attr("x", -vis.width/2 + 100)
+        .attr("x", -vis.width/2 + 130)
         .attr("font-size", "15px")
         .attr("text-anchor", "start")
         .text(vis.variable == "market_cap" ?
-            "Market Capitalization" : "24 Hour Trading Volume");
+            "Historical Sales" : "Historical Rent");
 
     vis.color = d3.scaleOrdinal(d3.schemeDark2);
 
@@ -168,59 +168,5 @@ DonutChart.prototype.addLegend = function(){
         .attr("x", -10)
         .attr("y", 10)
         .attr("text-anchor", "end")
-        .text(d => { return d.label; });
-}
-
-DonutChart.prototype.addLegendHor = function(){
-
-    var dataL = 0;
-    var offset = 80;
-    var vis = this;
-
-    var legend = vis.g.append("g")
-        .attr("transform", "translate(" + (0) +
-            ", " + (0) + ")");
-        // .attr("transform", function (d, i) {
-        //     if (i === 0) {
-        //         dataL = d.length + offset
-        //         return "translate(0,0)"
-        //     } else {
-        //         var newdataL = dataL
-        //         dataL +=  d.length + offset
-        //         return "translate(" + (newdataL) + ",0)"
-        //     }
-        // })
-
-    var legendArray = [
-        {label: "California", color: color("california")},
-        {label: "Florida", color: color("florida")},
-        {label: "Illinois", color: color("illinois")},
-        {label: "Pennsylvania", color: color("pennsylvania")},
-        {label: "Ohio", color: color("ohio")}
-    ]
-
-    var legendRow = legend.selectAll(".legendRow")
-        .data(legendArray)
-        .enter().append("g")
-        .attr("class", "legendRow")
-        .attr("transform", (d, i) => {
-            return "translate(" + 0 + ", " + (i * 20) + ")"
-        });
-
-    legendRow.append("rect")
-        .attr("class", "legendRect")
-        .attr("x", 0)
-        .attr("y", 0)
-        .attr("width", 10)
-        .attr("height", 10)
-        .attr("fill", d => { return d.color; });
-
-    legendRow.append("text")
-        .attr("class", "legendText")
-        .attr("x", -10)
-        .attr("y", 10)
-        .attr("text-anchor", "start")
-        .style("text-anchor", "start")
-        .style("font-size", 15)
         .text(d => { return d.label; });
 }
