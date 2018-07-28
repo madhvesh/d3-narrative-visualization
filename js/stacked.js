@@ -7,7 +7,7 @@ var margin = {top: 20, right: 100, bottom: 30, left: 50},
 var parseDate = d3.timeParse('%Y');
 var formatSi = d3.format(".3s");
 var formatNumber = d3.format(".1f"),
-    formatBillion = function(x) { return formatNumber(x / 1e4); };
+    formatBillion = function(x) { return formatNumber(x / 1e5); };
 
 var x = d3.scaleTime()
     .range([0, width]);
@@ -23,7 +23,7 @@ var xAxis = d3.axisBottom()
 
 var yAxis = d3.axisLeft()
     .scale(y)
-    .ticks(4)
+    .ticks(1.5)
     .tickFormat(formatBillion);
 
 var area = d3.area()
@@ -93,8 +93,8 @@ d3.csv('data/stacked_area.csv').then(function(data){
     svg.append ("text")
         .attr("x", 0-margin.left)
         .attr("transform", "rotate(-90)")
-        .attr("y", -30)
-        .attr("x", -120)
+        .attr("y", -35)
+        .attr("x", -130)
         .attr("font-size", "20px")
         .attr("text-anchor", "middle")
         .text("Total Sales")

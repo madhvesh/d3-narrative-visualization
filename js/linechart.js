@@ -7,7 +7,7 @@ LineChart = function(_parentElement,_coin){
 LineChart.prototype.initVis = function(){
     var vis = this;
 
-    vis.margin = { left:80, right:100, top:30, bottom:30 };
+    vis.margin = { left:80, right:100, top:50, bottom:40 };
     vis.height = 350 - vis.margin.top - vis.margin.bottom;
     vis.width = 800 - vis.margin.left - vis.margin.right;
 
@@ -62,6 +62,7 @@ LineChart.prototype.wrangleData = function(){
     // Filter data based on selections
     vis.sliderValues = $("#date-slider").slider("values")
     vis.dataFiltered = filteredData[vis.coin].filter(function(d) {
+        console.log((d.date >= vis.sliderValues[0]) && (d.date <= vis.sliderValues[1]))
         return ((d.date >= vis.sliderValues[0]) && (d.date <= vis.sliderValues[1]))
     })
 
@@ -141,8 +142,8 @@ LineChart.prototype.updateVis = function(){
     }
 
     // Update y-axis label
-    var newLabel = (vis.yVariable == "price_usd") ? "Price (USD)" :
-        ((vis.yVariable == "market_cap") ? "Market Capitalization (USD)" :
+    var newLabel = (vis.yVariable == "price_usd") ? "Home Rent (USD)" :
+        ((vis.yVariable == "market_cap") ? "Home Sales (USD)" :
             "24 Hour Trading Volume (USD)")
     vis.yLabel.text(newLabel)
 
@@ -150,7 +151,6 @@ LineChart.prototype.updateVis = function(){
         .x(function(d) { return vis.x(d.date); })
         .y(function(d) { return vis.y(d[vis.yVariable]); });
 
-    console.log(vis.coin," ", color(vis.coin))
 
     vis.g.select(".line")
         .attr("stroke", color(vis.coin))

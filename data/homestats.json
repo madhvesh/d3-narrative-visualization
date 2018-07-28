@@ -1,365 +1,368 @@
 {
-  "california": [
+ "california": [
     {
       "24h_vol": "0",
       "date": "15/01/2013",
       "market_cap": "308800",
-      "price_usd": "135.3"
+      "price_usd": "1769"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2013",
       "market_cap": "309900",
-      "price_usd": "135.3"
+      "price_usd": "1795"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2013",
       "market_cap": "313500",
-      "price_usd": "135.3"
+      "price_usd": "1795"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2013",
       "market_cap": "323800",
-      "price_usd": "141.96"
+      "price_usd": "1795"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2013",
       "market_cap": "336300",
-      "price_usd": "135.3"
+      "price_usd": "1799"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2013",
       "market_cap": "346200",
-      "price_usd": "117.0"
+      "price_usd": "1800"
     },
+
     {
       "24h_vol": "0",
       "date": "15/07/2013",
       "market_cap": "354200",
-      "price_usd": "103.43"
+      "price_usd": "1850"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2013",
       "market_cap": "357600",
-      "price_usd": "91.01"
+      "price_usd": "1797"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2013",
       "market_cap": "359100",
-      "price_usd": "111.25"
+      "price_usd": "1850"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2013",
       "market_cap": "361100",
-      "price_usd": "116.79"
+      "price_usd": "1850"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2013",
       "market_cap": "364100",
-      "price_usd": "118.33"
+      "price_usd": "1800"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2013",
       "market_cap": "367800",
-      "price_usd": "106.4"
+      "price_usd": "1895"
     },
+
     {
       "24h_vol": "0",
       "date": "15/01/2014",
       "market_cap": "368300",
-      "price_usd": "135.3"
+      "price_usd": "1850"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2014",
       "market_cap": "369600",
-      "price_usd": "135.3"
+      "price_usd": "1800"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2014",
       "market_cap": "370900",
-      "price_usd": "135.3"
+      "price_usd": "1800"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2014",
       "market_cap": "373600",
-      "price_usd": "141.96"
+      "price_usd": "1825"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2014",
       "market_cap": "377200",
-      "price_usd": "135.3"
+      "price_usd": "1995"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2014",
       "market_cap": "377200",
-      "price_usd": "117.0"
+      "price_usd": "2000"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2014",
       "market_cap": "380100",
-      "price_usd": "103.43"
+      "price_usd": "2000"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2014",
       "market_cap": "381900",
-      "price_usd": "91.01"
+      "price_usd": "2000"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2014",
       "market_cap": "385700",
-      "price_usd": "111.25"
+      "price_usd": "2000"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2014",
       "market_cap": "386600",
-      "price_usd": "116.79"
+      "price_usd": "2000"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2014",
       "market_cap": "386500",
-      "price_usd": "118.33"
+      "price_usd": "2000"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2014",
       "market_cap": "385400",
-      "price_usd": "106.4"
+      "price_usd": "2000"
     },
     {
       "24h_vol": "0",
       "date": "15/01/2015",
       "market_cap": "386900",
-      "price_usd": "135.3"
+      "price_usd": "2019"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2015",
       "market_cap": "391000",
-      "price_usd": "135.3"
+      "price_usd": "2095"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2015",
       "market_cap": "395000",
-      "price_usd": "135.3"
+      "price_usd": "2100"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2015",
       "market_cap": "398600",
-      "price_usd": "141.96"
+      "price_usd": "2150"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2015",
       "market_cap": "399200",
-      "price_usd": "135.3"
+      "price_usd": "2200"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2015",
       "market_cap": "402200",
-      "price_usd": "117.0"
+      "price_usd": "2250"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2015",
       "market_cap": "402700",
-      "price_usd": "103.43"
+      "price_usd": "2250"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2015",
       "market_cap": "404600",
-      "price_usd": "91.01"
+      "price_usd": "2280"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2015",
       "market_cap": "405700",
-      "price_usd": "111.25"
+      "price_usd": "2295"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2015",
       "market_cap": "406800",
-      "price_usd": "116.79"
+      "price_usd": "2295"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2015",
       "market_cap": "410300",
-      "price_usd": "118.33"
+      "price_usd": "2300"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2015",
       "market_cap": "413500",
-      "price_usd": "106.4"
+      "price_usd": "2300"
     },
+
     {
       "24h_vol": "0",
       "date": "15/01/2016",
       "market_cap": "418200",
-      "price_usd": "135.3"
+      "price_usd": "2300"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2016",
       "market_cap": "416400",
-      "price_usd": "135.3"
+      "price_usd": "2300"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2016",
       "market_cap": "414800",
-      "price_usd": "135.3"
+      "price_usd": "2395"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2016",
       "market_cap": "414400",
-      "price_usd": "141.96"
+      "price_usd": "2395"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2016",
       "market_cap": "418000",
-      "price_usd": "135.3"
+      "price_usd": "2395"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2016",
       "market_cap": "421100",
-      "price_usd": "117.0"
+      "price_usd": "2400"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2016",
       "market_cap": "421800",
-      "price_usd": "103.43"
+      "price_usd": "2400"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2016",
       "market_cap": "423000",
-      "price_usd": "91.01"
+      "price_usd": "2400"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2016",
       "market_cap": "424700",
-      "price_usd": "111.25"
+      "price_usd": "2400"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2016",
       "market_cap": "428900",
-      "price_usd": "116.79"
+      "price_usd": "2350"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2016",
       "market_cap": "430800",
-      "price_usd": "118.33"
+      "price_usd": "2400"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2016",
       "market_cap": "432800",
-      "price_usd": "106.4"
+      "price_usd": "2300"
     },
 
     {
       "24h_vol": "0",
       "date": "15/01/2017",
       "market_cap": "435700",
-      "price_usd": "135.3"
+      "price_usd": "2400"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2017",
       "market_cap": "440400",
-      "price_usd": "135.3"
+      "price_usd": "2500"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2017",
       "market_cap": "445400",
-      "price_usd": "135.3"
+      "price_usd": "2550"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2017",
       "market_cap": "446500",
-      "price_usd": "141.96"
+      "price_usd": "2650"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2017",
       "market_cap": "449300",
-      "price_usd": "135.3"
+      "price_usd": "2700"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2017",
       "market_cap": "452600",
-      "price_usd": "117.0"
+      "price_usd": "2700"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2017",
       "market_cap": "456700",
-      "price_usd": "103.43"
+      "price_usd": "2700"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2017",
       "market_cap": "457000",
-      "price_usd": "91.01"
+      "price_usd": "2700"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2017",
       "market_cap": "461200",
-      "price_usd": "111.25"
+      "price_usd": "2700"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2017",
       "market_cap": "463600",
-      "price_usd": "116.79"
+      "price_usd": "2695"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2017",
       "market_cap": "470800",
-      "price_usd": "118.33"
+      "price_usd": "2650"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2017",
       "market_cap": "469900",
-      "price_usd": "106.4"
+      "price_usd": "2650"
     }
 
   ],
@@ -367,727 +370,744 @@
     {
       "24h_vol": "0",
       "date": "15/01/2013",
-      "market_cap": "308800",
-      "price_usd": "135.3"
+      "market_cap": "136300",
+      "price_usd": "1400"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2013",
-      "market_cap": "309900",
-      "price_usd": "135.3"
+      "market_cap": "138000",
+      "price_usd": "1450"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2013",
-      "market_cap": "313500",
-      "price_usd": "135.3"
+      "market_cap": "138100",
+      "price_usd": "1450"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2013",
-      "market_cap": "323800",
-      "price_usd": "141.96"
+      "market_cap": "140000",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2013",
-      "market_cap": "336300",
-      "price_usd": "135.3"
+      "market_cap": "141900",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2013",
-      "market_cap": "346200",
-      "price_usd": "117.0"
+      "market_cap": "144200",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2013",
-      "market_cap": "354200",
-      "price_usd": "103.43"
+      "market_cap": "145300",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2013",
-      "market_cap": "357600",
-      "price_usd": "91.01"
+      "market_cap": "147400",
+      "price_usd": "1510"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2013",
-      "market_cap": "359100",
-      "price_usd": "111.25"
+      "market_cap": "148600",
+      "price_usd": "1595"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2013",
-      "market_cap": "361100",
-      "price_usd": "116.79"
+      "market_cap": "149200",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2013",
-      "market_cap": "364100",
-      "price_usd": "118.33"
+      "market_cap": "150300",
+      "price_usd": "1650"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2013",
-      "market_cap": "367800",
-      "price_usd": "106.4"
+      "market_cap": "151100",
+      "price_usd": "1625"
     },
     {
       "24h_vol": "0",
       "date": "15/01/2014",
-      "market_cap": "368300",
-      "price_usd": "135.3"
+      "market_cap": "151700",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2014",
-      "market_cap": "369600",
-      "price_usd": "135.3"
+      "market_cap": "150500",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2014",
-      "market_cap": "370900",
-      "price_usd": "135.3"
+      "market_cap": "150500",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2014",
-      "market_cap": "373600",
-      "price_usd": "141.96"
+      "market_cap": "150800",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2014",
-      "market_cap": "377200",
-      "price_usd": "135.3"
+      "market_cap": "151700",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2014",
-      "market_cap": "377200",
-      "price_usd": "117.0"
+      "market_cap": "152200",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2014",
-      "market_cap": "380100",
-      "price_usd": "103.43"
+      "market_cap": "154100",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2014",
-      "market_cap": "381900",
-      "price_usd": "91.01"
+      "market_cap": "154900",
+      "price_usd": "1595"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2014",
-      "market_cap": "385700",
-      "price_usd": "111.25"
+      "market_cap": "156300",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2014",
-      "market_cap": "386600",
-      "price_usd": "116.79"
+      "market_cap": "157200",
+      "price_usd": "1590"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2014",
-      "market_cap": "386500",
-      "price_usd": "118.33"
+      "market_cap": "159700",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2014",
-      "market_cap": "385400",
-      "price_usd": "106.4"
+      "market_cap": "161100",
+      "price_usd": "1525"
     },
+
     {
       "24h_vol": "0",
       "date": "15/01/2015",
-      "market_cap": "386900",
-      "price_usd": "135.3"
+      "market_cap": "161900",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2015",
-      "market_cap": "391000",
-      "price_usd": "135.3"
+      "market_cap": "163000",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2015",
-      "market_cap": "395000",
-      "price_usd": "135.3"
+      "market_cap": "165100",
+      "price_usd": "1575"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2015",
-      "market_cap": "398600",
-      "price_usd": "141.96"
+      "market_cap": "167200",
+      "price_usd": "1587"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2015",
-      "market_cap": "399200",
-      "price_usd": "135.3"
+      "market_cap": "169500",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2015",
-      "market_cap": "402200",
-      "price_usd": "117.0"
+      "market_cap": "170300",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2015",
-      "market_cap": "402700",
-      "price_usd": "103.43"
+      "market_cap": "171000",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2015",
-      "market_cap": "404600",
-      "price_usd": "91.01"
+      "market_cap": "170600",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2015",
-      "market_cap": "405700",
-      "price_usd": "111.25"
+      "market_cap": "171900",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2015",
-      "market_cap": "406800",
-      "price_usd": "116.79"
+      "market_cap": "173700",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2015",
-      "market_cap": "410300",
-      "price_usd": "118.33"
+      "market_cap": "174900",
+      "price_usd": "1608.5"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2015",
-      "market_cap": "413500",
-      "price_usd": "106.4"
+      "market_cap": "176500",
+      "price_usd": "1616"
     },
+
     {
       "24h_vol": "0",
       "date": "15/01/2016",
-      "market_cap": "418200",
-      "price_usd": "135.3"
+      "market_cap": "179700",
+      "price_usd": "1650"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2016",
-      "market_cap": "416400",
-      "price_usd": "135.3"
+      "market_cap": "182600",
+      "price_usd": "1650"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2016",
-      "market_cap": "414800",
-      "price_usd": "135.3"
+      "market_cap": "184000",
+      "price_usd": "1700"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2016",
-      "market_cap": "414400",
-      "price_usd": "141.96"
+      "market_cap": "183200",
+      "price_usd": "1698"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2016",
-      "market_cap": "418000",
-      "price_usd": "135.3"
+      "market_cap": "183400",
+      "price_usd": "1650"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2016",
-      "market_cap": "421100",
-      "price_usd": "117.0"
+      "market_cap": "184400",
+      "price_usd": "1650"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2016",
-      "market_cap": "421800",
-      "price_usd": "103.43"
+      "market_cap": "185600",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2016",
-      "market_cap": "423000",
-      "price_usd": "91.01"
+      "market_cap": "187900",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2016",
-      "market_cap": "424700",
-      "price_usd": "111.25"
+      "market_cap": "188800",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2016",
-      "market_cap": "428900",
-      "price_usd": "116.79"
+      "market_cap": "190700",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2016",
-      "market_cap": "430800",
-      "price_usd": "118.33"
+      "market_cap": "191000",
+      "price_usd": "1695"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2016",
-      "market_cap": "432800",
-      "price_usd": "106.4"
+      "market_cap": "192000",
+      "price_usd": "1595"
     },
-
     {
       "24h_vol": "0",
       "date": "15/01/2017",
-      "market_cap": "435700",
-      "price_usd": "135.3"
+      "market_cap": "194700",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2017",
-      "market_cap": "440400",
-      "price_usd": "135.3"
+      "market_cap": "198400",
+      "price_usd": "1650"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2017",
-      "market_cap": "445400",
-      "price_usd": "135.3"
+      "market_cap": "201100",
+      "price_usd": "1675"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2017",
-      "market_cap": "446500",
-      "price_usd": "141.96"
+      "market_cap": "202000",
+      "price_usd": "1700"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2017",
-      "market_cap": "449300",
-      "price_usd": "135.3"
+      "market_cap": "201400",
+      "price_usd": "1700"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2017",
-      "market_cap": "452600",
-      "price_usd": "117.0"
+      "market_cap": "202100",
+      "price_usd": "1745"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2017",
-      "market_cap": "456700",
-      "price_usd": "103.43"
+      "market_cap": "202500",
+      "price_usd": "1750"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2017",
-      "market_cap": "457000",
-      "price_usd": "91.01"
+      "market_cap": "203600",
+      "price_usd": "1750"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2017",
-      "market_cap": "461200",
-      "price_usd": "111.25"
+      "market_cap": "204100",
+      "price_usd": "1750"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2017",
-      "market_cap": "463600",
-      "price_usd": "116.79"
+      "market_cap": "206200",
+      "price_usd": "1750"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2017",
-      "market_cap": "470800",
-      "price_usd": "118.33"
+      "market_cap": "209400",
+      "price_usd": "1770.5"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2017",
-      "market_cap": "469900",
-      "price_usd": "106.4"
+      "market_cap": "214200",
+      "price_usd": "1750"
     }
 
   ],
+
+
+
+
   "illinois": [
     {
       "24h_vol": "0",
       "date": "15/01/2013",
-      "market_cap": "308800",
-      "price_usd": "135.3"
+      "market_cap": "140000",
+      "price_usd": "1460"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2013",
-      "market_cap": "309900",
-      "price_usd": "135.3"
+      "market_cap": "137900",
+      "price_usd": "1445"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2013",
-      "market_cap": "313500",
-      "price_usd": "135.3"
+      "market_cap": "137600",
+      "price_usd": "1475"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2013",
-      "market_cap": "323800",
-      "price_usd": "141.96"
+      "market_cap": "136100",
+      "price_usd": "1475"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2013",
-      "market_cap": "336300",
-      "price_usd": "135.3"
+      "market_cap": "139400",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2013",
-      "market_cap": "346200",
-      "price_usd": "117.0"
+      "market_cap": "144100",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2013",
-      "market_cap": "354200",
-      "price_usd": "103.43"
+      "market_cap": "152800",
+      "price_usd": "1523"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2013",
-      "market_cap": "357600",
-      "price_usd": "91.01"
+      "market_cap": "157500",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2013",
-      "market_cap": "359100",
-      "price_usd": "111.25"
+      "market_cap": "158500",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2013",
-      "market_cap": "361100",
-      "price_usd": "116.79"
+      "market_cap": "159400",
+      "price_usd": "1525"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2013",
-      "market_cap": "364100",
-      "price_usd": "118.33"
+      "market_cap": "161600",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2013",
-      "market_cap": "367800",
-      "price_usd": "106.4"
+      "market_cap": "166700",
+      "price_usd": "1525"
     },
+
+
+
+
     {
       "24h_vol": "0",
       "date": "15/01/2014",
-      "market_cap": "368300",
-      "price_usd": "135.3"
+      "market_cap": "167000",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2014",
-      "market_cap": "369600",
-      "price_usd": "135.3"
+      "market_cap": "167900",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2014",
-      "market_cap": "370900",
-      "price_usd": "135.3"
+      "market_cap": "166100",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2014",
-      "market_cap": "373600",
-      "price_usd": "141.96"
+      "market_cap": "165900",
+      "price_usd": "1499"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2014",
-      "market_cap": "377200",
-      "price_usd": "135.3"
+      "market_cap": "164800",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2014",
-      "market_cap": "377200",
-      "price_usd": "117.0"
+      "market_cap": "166800",
+      "price_usd": "1575"
     },
+
     {
       "24h_vol": "0",
       "date": "15/07/2014",
-      "market_cap": "380100",
-      "price_usd": "103.43"
+      "market_cap": "167400",
+      "price_usd": "1590"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2014",
-      "market_cap": "381900",
-      "price_usd": "91.01"
+      "market_cap": "167700",
+      "price_usd": "1585"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2014",
-      "market_cap": "385700",
-      "price_usd": "111.25"
+      "market_cap": "169000",
+      "price_usd": "1590"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2014",
-      "market_cap": "386600",
-      "price_usd": "116.79"
+      "market_cap": "170300",
+      "price_usd": "1575"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2014",
-      "market_cap": "386500",
-      "price_usd": "118.33"
+      "market_cap": "172600",
+      "price_usd": "1549"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2014",
-      "market_cap": "385400",
-      "price_usd": "106.4"
+      "market_cap": "172800",
+      "price_usd": "1519"
     },
+
+
+
+
+
     {
       "24h_vol": "0",
       "date": "15/01/2015",
-      "market_cap": "386900",
-      "price_usd": "135.3"
+      "market_cap": "174000",
+      "price_usd": "1525"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2015",
-      "market_cap": "391000",
-      "price_usd": "135.3"
+      "market_cap": "174700",
+      "price_usd": "1549"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2015",
-      "market_cap": "395000",
-      "price_usd": "135.3"
+      "market_cap": "174800",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2015",
-      "market_cap": "398600",
-      "price_usd": "141.96"
+      "market_cap": "175100",
+      "price_usd": "1585"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2015",
-      "market_cap": "399200",
-      "price_usd": "135.3"
+      "market_cap": "175600",
+      "price_usd": "1595"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2015",
-      "market_cap": "402200",
-      "price_usd": "117.0"
+      "market_cap": "175800",
+      "price_usd": "1595"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2015",
-      "market_cap": "402700",
-      "price_usd": "103.43"
+      "market_cap": "179300",
+      "price_usd": "1599"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2015",
-      "market_cap": "404600",
-      "price_usd": "91.01"
+      "market_cap": "180300",
+      "price_usd": "1600"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2015",
-      "market_cap": "405700",
-      "price_usd": "111.25"
+      "market_cap": "180900",
+      "price_usd": "1575"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2015",
-      "market_cap": "406800",
-      "price_usd": "116.79"
+      "market_cap": "178300",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2015",
-      "market_cap": "410300",
-      "price_usd": "118.33"
+      "market_cap": "177400",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2015",
-      "market_cap": "413500",
-      "price_usd": "106.4"
+      "market_cap": "178300",
+      "price_usd": "1533"
     },
+
+
     {
       "24h_vol": "0",
       "date": "15/01/2016",
-      "market_cap": "418200",
-      "price_usd": "135.3"
+      "market_cap": "177900",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2016",
-      "market_cap": "416400",
-      "price_usd": "135.3"
+      "market_cap": "179000",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2016",
-      "market_cap": "414800",
-      "price_usd": "135.3"
+      "market_cap": "179900",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2016",
-      "market_cap": "414400",
-      "price_usd": "141.96"
+      "market_cap": "181100",
+      "price_usd": "1545"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2016",
-      "market_cap": "418000",
-      "price_usd": "135.3"
+      "market_cap": "181400",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2016",
-      "market_cap": "421100",
-      "price_usd": "117.0"
+      "market_cap": "181900",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2016",
-      "market_cap": "421800",
-      "price_usd": "103.43"
+      "market_cap": "183600",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2016",
-      "market_cap": "423000",
-      "price_usd": "91.01"
+      "market_cap": "184600",
+      "price_usd": "1550"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2016",
-      "market_cap": "424700",
-      "price_usd": "111.25"
+      "market_cap": "180400",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2016",
-      "market_cap": "428900",
-      "price_usd": "116.79"
+      "market_cap": "178100",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2016",
-      "market_cap": "430800",
-      "price_usd": "118.33"
+      "market_cap": "178500",
+      "price_usd": "1500"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2016",
-      "market_cap": "432800",
-      "price_usd": "106.4"
+      "market_cap": "184200",
+      "price_usd": "1500"
     },
 
     {
       "24h_vol": "0",
       "date": "15/01/2017",
-      "market_cap": "435700",
-      "price_usd": "135.3"
+      "market_cap": "187900",
+      "price_usd": "1699"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2017",
-      "market_cap": "440400",
-      "price_usd": "135.3"
+      "market_cap": "189500",
+      "price_usd": "1675"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2017",
-      "market_cap": "445400",
-      "price_usd": "135.3"
+      "market_cap": "192300",
+      "price_usd": "1700"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2017",
-      "market_cap": "446500",
-      "price_usd": "141.96"
+      "market_cap": "192400",
+      "price_usd": "1750"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2017",
-      "market_cap": "449300",
-      "price_usd": "135.3"
+      "market_cap": "192300",
+      "price_usd": "1775"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2017",
-      "market_cap": "452600",
-      "price_usd": "117.0"
+      "market_cap": "189500",
+      "price_usd": "1800"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2017",
-      "market_cap": "456700",
-      "price_usd": "103.43"
+      "market_cap": "190700",
+      "price_usd": "1800"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2017",
-      "market_cap": "457000",
-      "price_usd": "91.01"
+      "market_cap": "190500",
+      "price_usd": "1795"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2017",
-      "market_cap": "461200",
-      "price_usd": "111.25"
+      "market_cap": "186100",
+      "price_usd": "1750"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2017",
-      "market_cap": "463600",
-      "price_usd": "116.79"
+      "market_cap": "183600",
+      "price_usd": "1700"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2017",
-      "market_cap": "470800",
-      "price_usd": "118.33"
+      "market_cap": "184900",
+      "price_usd": "1700"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2017",
-      "market_cap": "469900",
-      "price_usd": "106.4"
+      "market_cap": "191100",
+      "price_usd": "1700"
     }
 
   ],
@@ -1095,727 +1115,733 @@
     {
       "24h_vol": "0",
       "date": "15/01/2013",
-      "market_cap": "308800",
-      "price_usd": "135.3"
+      "market_cap": "144100",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2013",
-      "market_cap": "309900",
-      "price_usd": "135.3"
+      "market_cap": "143800",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2013",
-      "market_cap": "313500",
-      "price_usd": "135.3"
+      "market_cap": "143300",
+      "price_usd": "1242.5"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2013",
-      "market_cap": "323800",
-      "price_usd": "141.96"
+      "market_cap": "143300",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2013",
-      "market_cap": "336300",
-      "price_usd": "135.3"
+      "market_cap": "143500",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2013",
-      "market_cap": "346200",
-      "price_usd": "117.0"
+      "market_cap": "144000",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2013",
-      "market_cap": "354200",
-      "price_usd": "103.43"
+      "market_cap": "146100",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2013",
-      "market_cap": "357600",
-      "price_usd": "91.01"
+      "market_cap": "146300",
+      "price_usd": "1299"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2013",
-      "market_cap": "359100",
-      "price_usd": "111.25"
+      "market_cap": "145800",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2013",
-      "market_cap": "361100",
-      "price_usd": "116.79"
+      "market_cap": "144400",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2013",
-      "market_cap": "364100",
-      "price_usd": "118.33"
+      "market_cap": "143700",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2013",
-      "market_cap": "367800",
-      "price_usd": "106.4"
+      "market_cap": "144100",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/01/2014",
-      "market_cap": "368300",
-      "price_usd": "135.3"
+      "market_cap": "143400",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2014",
-      "market_cap": "369600",
-      "price_usd": "135.3"
+      "market_cap": "144700",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2014",
-      "market_cap": "370900",
-      "price_usd": "135.3"
+      "market_cap": "144900",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2014",
-      "market_cap": "373600",
-      "price_usd": "141.96"
+      "market_cap": "143200",
+      "price_usd": "1200"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2014",
-      "market_cap": "377200",
-      "price_usd": "135.3"
+      "market_cap": "141900",
+      "price_usd": "1325"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2014",
-      "market_cap": "377200",
-      "price_usd": "117.0"
+      "market_cap": "140500",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2014",
-      "market_cap": "380100",
-      "price_usd": "103.43"
+      "market_cap": "141800",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2014",
-      "market_cap": "381900",
-      "price_usd": "91.01"
+      "market_cap": "143200",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2014",
-      "market_cap": "385700",
-      "price_usd": "111.25"
+      "market_cap": "145000",
+      "price_usd": "1295"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2014",
-      "market_cap": "386600",
-      "price_usd": "116.79"
+      "market_cap": "145300",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2014",
-      "market_cap": "386500",
-      "price_usd": "118.33"
+      "market_cap": "145000",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2014",
-      "market_cap": "385400",
-      "price_usd": "106.4"
+      "market_cap": "145300",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/01/2015",
-      "market_cap": "386900",
-      "price_usd": "135.3"
+      "market_cap": "146400",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2015",
-      "market_cap": "391000",
-      "price_usd": "135.3"
+      "market_cap": "146600",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2015",
-      "market_cap": "395000",
-      "price_usd": "135.3"
+      "market_cap": "147400",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2015",
-      "market_cap": "398600",
-      "price_usd": "141.96"
+      "market_cap": "147000",
+      "price_usd": "1325"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2015",
-      "market_cap": "399200",
-      "price_usd": "135.3"
+      "market_cap": "147000",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2015",
-      "market_cap": "402200",
-      "price_usd": "117.0"
+      "market_cap": "146800",
+      "price_usd": "1385"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2015",
-      "market_cap": "402700",
-      "price_usd": "103.43"
+      "market_cap": "148500",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2015",
-      "market_cap": "404600",
-      "price_usd": "91.01"
+      "market_cap": "148600",
+      "price_usd": "1320"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2015",
-      "market_cap": "405700",
-      "price_usd": "111.25"
+      "market_cap": "149300",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2015",
-      "market_cap": "406800",
-      "price_usd": "116.79"
+      "market_cap": "148000",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2015",
-      "market_cap": "410300",
-      "price_usd": "118.33"
+      "market_cap": "148400",
+      "price_usd": "1275"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2015",
-      "market_cap": "413500",
-      "price_usd": "106.4"
+      "market_cap": "147600",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/01/2016",
-      "market_cap": "418200",
-      "price_usd": "135.3"
+      "market_cap": "149000",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2016",
-      "market_cap": "416400",
-      "price_usd": "135.3"
+      "market_cap": "150200",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2016",
-      "market_cap": "414800",
-      "price_usd": "135.3"
+      "market_cap": "149400",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2016",
-      "market_cap": "414400",
-      "price_usd": "141.96"
+      "market_cap": "149500",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2016",
-      "market_cap": "418000",
-      "price_usd": "135.3"
+      "market_cap": "149600",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2016",
-      "market_cap": "421100",
-      "price_usd": "117.0"
+      "market_cap": "152200",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2016",
-      "market_cap": "421800",
-      "price_usd": "103.43"
+      "market_cap": "152300",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2016",
-      "market_cap": "423000",
-      "price_usd": "91.01"
+      "market_cap": "152300",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2016",
-      "market_cap": "424700",
-      "price_usd": "111.25"
+      "market_cap": "151200",
+      "price_usd": "1275"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2016",
-      "market_cap": "428900",
-      "price_usd": "116.79"
+      "market_cap": "152100",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2016",
-      "market_cap": "430800",
-      "price_usd": "118.33"
+      "market_cap": "153300",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2016",
-      "market_cap": "432800",
-      "price_usd": "106.4"
+      "market_cap": "154500",
+      "price_usd": "1250"
     },
-
     {
       "24h_vol": "0",
       "date": "15/01/2017",
-      "market_cap": "435700",
-      "price_usd": "135.3"
+      "market_cap": "154600",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2017",
-      "market_cap": "440400",
-      "price_usd": "135.3"
+      "market_cap": "154400",
+      "price_usd": "1250"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2017",
-      "market_cap": "445400",
-      "price_usd": "135.3"
+      "market_cap": "155100",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2017",
-      "market_cap": "446500",
-      "price_usd": "141.96"
+      "market_cap": "156000",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2017",
-      "market_cap": "449300",
-      "price_usd": "135.3"
+      "market_cap": "157500",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2017",
-      "market_cap": "452600",
-      "price_usd": "117.0"
+      "market_cap": "159100",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2017",
-      "market_cap": "456700",
-      "price_usd": "103.43"
+      "market_cap": "160700",
+      "price_usd": "1350"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2017",
-      "market_cap": "457000",
-      "price_usd": "91.01"
+      "market_cap": "160400",
+      "price_usd": "1300"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2017",
-      "market_cap": "461200",
-      "price_usd": "111.25"
+      "market_cap": "159100",
+      "price_usd": "1284"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2017",
-      "market_cap": "463600",
-      "price_usd": "116.79"
+      "market_cap": "158300",
+      "price_usd": "1270"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2017",
-      "market_cap": "470800",
-      "price_usd": "118.33"
+      "market_cap": "159200",
+      "price_usd": "1275"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2017",
-      "market_cap": "469900",
-      "price_usd": "106.4"
+      "market_cap": "162800",
+      "price_usd": "1275"
     }
 
   ],
+
+
+
   "ohio": [
     {
       "24h_vol": "0",
       "date": "15/01/2013",
-      "market_cap": "308800",
-      "price_usd": "135.3"
+      "market_cap": "103200",
+      "price_usd": "815"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2013",
-      "market_cap": "309900",
-      "price_usd": "135.3"
+      "market_cap": "102800",
+      "price_usd": "800"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2013",
-      "market_cap": "313500",
-      "price_usd": "135.3"
+      "market_cap": "101100",
+      "price_usd": "850"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2013",
-      "market_cap": "323800",
-      "price_usd": "141.96"
+      "market_cap": "100000",
+      "price_usd": "850"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2013",
-      "market_cap": "336300",
-      "price_usd": "135.3"
+      "market_cap": "102400",
+      "price_usd": "895"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2013",
-      "market_cap": "346200",
-      "price_usd": "117.0"
+      "market_cap": "104900",
+      "price_usd": "875"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2013",
-      "market_cap": "354200",
-      "price_usd": "103.43"
+      "market_cap": "108100",
+      "price_usd": "875"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2013",
-      "market_cap": "357600",
-      "price_usd": "91.01"
+      "market_cap": "109300",
+      "price_usd": "895"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2013",
-      "market_cap": "359100",
-      "price_usd": "111.25"
+      "market_cap": "108600",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2013",
-      "market_cap": "361100",
-      "price_usd": "116.79"
+      "market_cap": "107100",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2013",
-      "market_cap": "364100",
-      "price_usd": "118.33"
+      "market_cap": "108000",
+      "price_usd": "900"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2013",
-      "market_cap": "367800",
-      "price_usd": "106.4"
+      "market_cap": "108900",
+      "price_usd": "1000"
     },
+
+
+
     {
       "24h_vol": "0",
       "date": "15/01/2014",
-      "market_cap": "368300",
-      "price_usd": "135.3"
+      "market_cap": "110200",
+      "price_usd": "925"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2014",
-      "market_cap": "369600",
-      "price_usd": "135.3"
+      "market_cap": "109600",
+      "price_usd": "900"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2014",
-      "market_cap": "370900",
-      "price_usd": "135.3"
+      "market_cap": "110600",
+      "price_usd": "900"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2014",
-      "market_cap": "373600",
-      "price_usd": "141.96"
+      "market_cap": "112200",
+      "price_usd": "900"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2014",
-      "market_cap": "377200",
-      "price_usd": "135.3"
+      "market_cap": "112900",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2014",
-      "market_cap": "377200",
-      "price_usd": "117.0"
+      "market_cap": "114000",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2014",
-      "market_cap": "380100",
-      "price_usd": "103.43"
+      "market_cap": "114700",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2014",
-      "market_cap": "381900",
-      "price_usd": "91.01"
+      "market_cap": "115500",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2014",
-      "market_cap": "385700",
-      "price_usd": "111.25"
+      "market_cap": "116200",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2014",
-      "market_cap": "386600",
-      "price_usd": "116.79"
+      "market_cap": "116700",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2014",
-      "market_cap": "386500",
-      "price_usd": "118.33"
+      "market_cap": "117100",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2014",
-      "market_cap": "385400",
-      "price_usd": "106.4"
+      "market_cap": "119000",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/01/2015",
-      "market_cap": "386900",
-      "price_usd": "135.3"
+      "market_cap": "116800",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2015",
-      "market_cap": "391000",
-      "price_usd": "135.3"
+      "market_cap": "118800",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2015",
-      "market_cap": "395000",
-      "price_usd": "135.3"
+      "market_cap": "117700",
+      "price_usd": "1036"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2015",
-      "market_cap": "398600",
-      "price_usd": "141.96"
+      "market_cap": "119400",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2015",
-      "market_cap": "399200",
-      "price_usd": "135.3"
+      "market_cap": "118300",
+      "price_usd": "1095"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2015",
-      "market_cap": "402200",
-      "price_usd": "117.0"
+      "market_cap": "117300",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2015",
-      "market_cap": "402700",
-      "price_usd": "103.43"
+      "market_cap": "117800",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2015",
-      "market_cap": "404600",
-      "price_usd": "91.01"
+      "market_cap": "118000",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2015",
-      "market_cap": "405700",
-      "price_usd": "111.25"
+      "market_cap": "118900",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2015",
-      "market_cap": "406800",
-      "price_usd": "116.79"
+      "market_cap": "119000",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2015",
-      "market_cap": "410300",
-      "price_usd": "118.33"
+      "market_cap": "115000",
+      "price_usd": "1025"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2015",
-      "market_cap": "413500",
-      "price_usd": "106.4"
+      "market_cap": "115000",
+      "price_usd": "1000"
     },
+
     {
       "24h_vol": "0",
       "date": "15/01/2016",
-      "market_cap": "418200",
-      "price_usd": "135.3"
+      "market_cap": "115500",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2016",
-      "market_cap": "416400",
-      "price_usd": "135.3"
+      "market_cap": "121500",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2016",
-      "market_cap": "414800",
-      "price_usd": "135.3"
+      "market_cap": "121800",
+      "price_usd": "1095"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2016",
-      "market_cap": "414400",
-      "price_usd": "141.96"
+      "market_cap": "123300",
+      "price_usd": "1100"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2016",
-      "market_cap": "418000",
-      "price_usd": "135.3"
+      "market_cap": "122000",
+      "price_usd": "1075"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2016",
-      "market_cap": "421100",
-      "price_usd": "117.0"
+      "market_cap": "122300",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2016",
-      "market_cap": "421800",
-      "price_usd": "103.43"
+      "market_cap": "121100",
+      "price_usd": "1100"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2016",
-      "market_cap": "423000",
-      "price_usd": "91.01"
+      "market_cap": "121700",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2016",
-      "market_cap": "424700",
-      "price_usd": "111.25"
+      "market_cap": "122200",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2016",
-      "market_cap": "428900",
-      "price_usd": "116.79"
+      "market_cap": "124800",
+      "price_usd": "990"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2016",
-      "market_cap": "430800",
-      "price_usd": "118.33"
+      "market_cap": "125400",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2016",
-      "market_cap": "432800",
-      "price_usd": "106.4"
+      "market_cap": "126100",
+      "price_usd": "950"
     },
 
     {
       "24h_vol": "0",
       "date": "15/01/2017",
-      "market_cap": "435700",
-      "price_usd": "135.3"
+      "market_cap": "127800",
+      "price_usd": "975"
     },
     {
       "24h_vol": "0",
       "date": "15/02/2017",
-      "market_cap": "440400",
-      "price_usd": "135.3"
+      "market_cap": "129800",
+      "price_usd": "950"
     },
     {
       "24h_vol": "0",
       "date": "15/03/2017",
-      "market_cap": "445400",
-      "price_usd": "135.3"
+      "market_cap": "131400",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/04/2017",
-      "market_cap": "446500",
-      "price_usd": "141.96"
+      "market_cap": "130500",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/05/2017",
-      "market_cap": "449300",
-      "price_usd": "135.3"
+      "market_cap": "129300",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/06/2017",
-      "market_cap": "452600",
-      "price_usd": "117.0"
+      "market_cap": "127300",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/07/2017",
-      "market_cap": "456700",
-      "price_usd": "103.43"
+      "market_cap": "125300",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/08/2017",
-      "market_cap": "457000",
-      "price_usd": "91.01"
+      "market_cap": "125500",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/09/2017",
-      "market_cap": "461200",
-      "price_usd": "111.25"
+      "market_cap": "127200",
+      "price_usd": "1000"
     },
     {
       "24h_vol": "0",
       "date": "15/10/2017",
-      "market_cap": "463600",
-      "price_usd": "116.79"
+      "market_cap": "129700",
+      "price_usd": "1050"
     },
     {
       "24h_vol": "0",
       "date": "15/11/2017",
-      "market_cap": "470800",
-      "price_usd": "118.33"
+      "market_cap": "131200",
+      "price_usd": "995"
     },
     {
       "24h_vol": "0",
       "date": "15/12/2017",
-      "market_cap": "469900",
-      "price_usd": "106.4"
+      "market_cap": "134400",
+      "price_usd": "995"
     }
 
   ]
