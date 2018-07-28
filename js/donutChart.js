@@ -32,11 +32,18 @@ DonutChart.prototype.initVis = function(){
 
     vis.g.append("text")
         .attr("y", -vis.height/2 )
-        .attr("x", -vis.width/2 + 130)
+        .attr("x", -vis.width/2 + 140)
         .attr("font-size", "15px")
         .attr("text-anchor", "start")
         .text(vis.variable == "market_cap" ?
             "Historical Sales" : "Historical Rent");
+
+    vis.g.append("text")
+        .attr("y", -vis.height/2 + 100)
+        .attr("x", -vis.width/2 + 140)
+        .attr("font-size", "10px")
+        .attr("text-anchor", "start")
+        .text("Click to interact");
 
     vis.color = d3.scaleOrdinal(d3.schemeDark2);
 

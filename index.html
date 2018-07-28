@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <title>Home Sales</title>
-    <!-- Bootstrap Core CSS -->
+
     <link rel="stylesheet" href="stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="stylesheets/jquery-ui.min.css">
     <link rel="stylesheet" href="stylesheets/jquery-ui.structure.min.css">
@@ -16,7 +16,7 @@
 
 <nav class="navbar navbar-default">
     <div class="container">
-        <h2 align="center">Home Sales Comparision in top 5 states</h2>
+        <h2 align="center">Home Sales and Rent Comparision for top 5 states in the US</h2>
     </div>
 </nav>
 <!-- Bootstrap grid setup -->
@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <label>Date: <span id="dateLabel1">Jan 2013</span> - <span id="dateLabel2">Dec 2017</span></label>
-                    <div id="date-slider" style="display: none;"></div>
+                    <div id="date-slider" ></div><br><br>
                 </div>
             </div>
             <div class="row">
@@ -50,10 +50,8 @@
             </div>
             <div id="line-area"> </div>
             <div id="timeline-area"></div>
-            <div id="text">The data here captures the Home Sales and Rental data for top 5 states, excluding NY(had data skew).
-                          <br>This is a Bootstrap-Nodejs-Express App running on Heroku. This is a Martini Glass
-                <br>
-            </div>
+
+            <div id="button"><a href="about.html" align="right">About the Visualization</a></div>
 
         </div>
         <div id="right-charts" class="col-md-4 col-sm-8">
